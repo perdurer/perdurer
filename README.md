@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/23/c0/63/23c063fa2ea57199dcead7128e0638ef.jpg" alt="Cyberpunk Header" width="100%" />
 </p>
 
-<h1 align="center"> ✨ Coding the Future | Perdurer ✨</h1>
+<h1 align="center"> Perdurer | Github Final Boss ❤️</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/msharratt1401/msharratt1401/master/animated-arrow.gif" width="30px">
