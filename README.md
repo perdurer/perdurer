@@ -29,22 +29,10 @@
 ---
 
 ### 🚀 About My Journey
-- 🟢 **Node.js:** expert in building fast and scalable server-side applications.
-- 🐍 **Python:** Automation, backend logic, and clean scripting.
-- 🛠️ **Workflow:** High focus on performance and modular architecture.
-- 🔭 **Current Goal:** Mastering Microservices and Cloud infrastructure.
-
----
-
-### 📊 My GitHub Ecosystem
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Perdurer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perdurer&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Perdurer&theme=tokyonight&hide_border=true" />
-</p>
+- 🟢 **Node.js:** Expert dans la création d'applications côté serveur rapides et évolutives.
+- 🐍 **Python:** Automatisation, logique backend et scripting propre.
+- 🛠️ **Workflow:** Focus important sur la performance et l'architecture modulaire.
+- 🔭 **Objectif actuel:** Maîtriser les microservices et l'infrastructure Cloud.
 
 ---
 
@@ -61,10 +49,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
-
 <p align="right">
-  <i>Last updated: Jan 2026</i>
+  <i>Dernière mise à jour : Janvier 2026</i>
 </p>
