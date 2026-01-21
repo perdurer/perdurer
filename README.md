@@ -23,13 +23,13 @@
 
 ---
 
-### 🌐 Transmission Lines (Contact)
+### 🌐 Contact
 <p align="center">
   <a href="https://t.me/perdurer" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
-  <a href="[[LIEN_INVITATION_DISCORD](https://discord.gg/akp3CtS9w6)]" target="_blank">
+  <a href="[[https://discord.gg/akp3CtS9w6)]]" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
